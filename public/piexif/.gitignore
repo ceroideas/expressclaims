@@ -1,0 +1,8 @@
+README.md
+
+*.bat
+_images
+docs/_build/
+*.db
+
+node_modules

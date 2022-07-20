@@ -1,0 +1,1 @@
+<h1>Your code is: <b>{{ $code }}</b></h1>

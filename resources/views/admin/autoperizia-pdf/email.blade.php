@@ -1,0 +1,1 @@
+<h3>SelfClaims completato dall'assicurato {{$sm->user->fullname()}}. Trova di seguito il link delle informazioni: <a href="{{url('admin/self-management-data',$sm->user_id)}}">{{url('admin/self-management-data',$sm->user_id)}}</a> </h3>
